@@ -11,15 +11,15 @@ AwesomeWM
     <th>v3.5+ from 2013 (Arch Linux Laptop)</th></tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/tdy/dots/raw/master/screenshots/awesome_20100113_1680x1050.png">
-        <img src="https://github.com/tdy/dots/raw/master/screenshots/awesome_20100113_1680x1050.png" width="100%" alt="Arch Linux Desktop (2010)" />
+      <a href="https://github.com/tdy/screenshots/blob/master/awesome_20100113_1680x1050.png">
+        <img src="https://github.com/tdy/screenshots/blob/master/awesome_20100113_1680x1050.png" width="100%" alt="Arch Linux Desktop (2010)" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/tdy/dots/raw/master/screenshots/awesome_20130301_2880x1800.png">
-        <img src="https://github.com/tdy/dots/raw/master/screenshots/awesome_20130301_2880x1800.png" width="100%" alt="Arch Linux rMBP 15" (2013)" />
+      <a href="https://github.com/tdy/screenshots/blob/master/awesome_20130301_2880x1800.png">
+        <img src="https://github.com/tdy/screenshots/blob/master/awesome_20130301_2880x1800.png" width="100%" alt="Arch Linux rMBP 15" (2013)" />
       </a>
     </td>
   </tr>
-  <tr><th colspan="2"><a href="https://github.com/tdy/dots/blob/master/screenshots">and more...</a></th></tr>
+  <tr><th colspan="2"><a href="https://github.com/tdy/screenshots">and more...</a></th></tr>
 </table>
