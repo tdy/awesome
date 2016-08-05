@@ -1,10 +1,10 @@
 # [@tdy](https://github.com/tdy) / awesome
 
-Config files for the [awesome](https://awesomewm.org) window manager
-with widgets built on the [Vicious](http://git.sysphere.org/vicious/about/) library
-and a theme inspired by [Dust GTK](https://wiki.ubuntu.com/Artwork/Incoming/DustTheme).
+My [awesomeWM](https://github.com/awesomeWM/awesome) configs
+with custom [Vicious](http://git.sysphere.org/vicious/about/) widgets
+and a [Dust](https://wiki.ubuntu.com/Artwork/Incoming/DustTheme)-inspired theme.
 
-## Version 3.5+
+## Version 3.5.x
 
 * Config: [rc.lua](rc.lua)
 * Widgets: [wi.lua](wi.lua)
