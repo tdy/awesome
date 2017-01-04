@@ -316,6 +316,7 @@ awful.screen.connect_for_each_screen(
     left_graphbox:add(txwidget)
     left_graphbox:add(txgraph)
     left_graphbox:add(upwidget)
+    left_graphbox:add(tab)
     left_graphbox:add(rxwidget)
     left_graphbox:add(rxgraph)
     left_graphbox:add(dnwidget)
