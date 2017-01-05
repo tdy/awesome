@@ -1,6 +1,6 @@
 --[[
-awesomeWM 4.0 theme
-github@tdy/awesome
+- awesomeWM 4.0 theme
+- github@tdy/awesome
 --]]
 
 local awful = require("awful")
