@@ -27,27 +27,27 @@ theme.menu_width            = 100
 -- }}}
 
 -- {{{ Colors
-theme.fg_normal             = "#aaaaaa"
-theme.fg_focus              = "#111111"
+theme.fg_normal             = "#d9d4cc"
+theme.fg_focus              = theme.fg_normal
 theme.fg_urgent             = "#ffffff"
-theme.fg_tooltip            = "#1a1a1a"
-theme.fg_em                 = "#d6d6d6"
-theme.fg_widget             = "#908884"
+theme.fg_minimize           = "#908884"
+theme.fg_tooltip            = "#323232"
+theme.fg_em                 = "#ffffef"
+theme.fg_widget             = theme.fg_minimize
 theme.fg_center_widget      = "#636363"
 theme.fg_end_widget         = theme.fg_tooltip
-theme.fg_minimize           = "#ffffff" -- TODO
 
 theme.bg_normal             = theme.fg_tooltip
-theme.bg_focus              = theme.fg_widget
+theme.bg_focus              = "#75645b"
 theme.bg_urgent             = "#cd7171"
-theme.bg_tooltip            = theme.fg_em
+theme.bg_minimize           = theme.bg_normal
+theme.bg_tooltip            = "#ebeab8"
 theme.bg_em                 = "#5a5a5a"
 theme.bg_systray            = theme.fg_tooltip
-theme.bg_widget             = "#2a2a2a"
-theme.bg_minimize           = "#444444" -- TODO
+theme.bg_widget             = "#343330"
 
 theme.useless_gap           = 0
-theme.border_width          = 1
+theme.border_width          = 2
 theme.border_normal         = "#222222"
 theme.border_focus          = theme.bg_focus
 theme.border_marked         = "#91231c"
