@@ -1,7 +1,7 @@
 # [@tdy](https://github.com/tdy) / awesome
 
 My [awesomeWM](https://github.com/awesomeWM/awesome) configs
-with custom [Vicious](http://git.sysphere.org/vicious/about/) widgets
+with [Vicious](http://git.sysphere.org/vicious/about/)-based widgets
 and a [Dust](https://wiki.ubuntu.com/Artwork/Incoming/DustTheme)-inspired theme.
 
 ## Version 4.x
@@ -10,7 +10,7 @@ and a [Dust](https://wiki.ubuntu.com/Artwork/Incoming/DustTheme)-inspired theme.
 * Widgets: [wi.lua](wi.lua)
 * Theme: [theme.lua](themes/dust/theme.lua)
 
-[<img src="https://raw.githubusercontent.com/tdy/screenshots/master/awesome_20170104_2880x1800.png" width="400px" alt="Arch Linux rMBP 15" (2017)" />](https://raw.githubusercontent.com/tdy/screenshots/master/awesome_20170104_2880x1800.png)  
+[<img src="https://raw.githubusercontent.com/tdy/screenshots/master/awesome_20170105_2880x1800.png" width="400px" alt="Arch Linux rMBP 15" (2017)" />](https://raw.githubusercontent.com/tdy/screenshots/master/awesome_20170105_2880x1800.png)  
 *Arch Linux Laptop (2017)*
 
 ## Version [3.5.9](https://github.com/tdy/awesome/tree/v3.5.9)
