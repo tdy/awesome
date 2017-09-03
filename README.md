@@ -10,7 +10,7 @@ and a [Dust](https://wiki.ubuntu.com/Artwork/Incoming/DustTheme)-inspired theme.
 * Widgets: [wi.lua](wi.lua)
 * Theme: [theme.lua](themes/dust/theme.lua)
 
-[<img src="https://raw.githubusercontent.com/tdy/screenshots/master/awesome_20170105_2880x1800.png" width="400px" alt="Arch Linux rMBP 15" (2017)" />](https://raw.githubusercontent.com/tdy/screenshots/master/awesome_20170105_2880x1800.png)  
+[<img src="https://raw.githubusercontent.com/tdy/screenshots/master/awesome_20170105_2880x1800.png" width="400px" alt="Arch Linux rMBP 15″ (2017)" />](https://raw.githubusercontent.com/tdy/screenshots/master/awesome_20170105_2880x1800.png)  
 *Arch Linux Laptop (2017)*
 
 ## Version [3.5.9](https://github.com/tdy/awesome/tree/v3.5.9)
@@ -19,7 +19,7 @@ and a [Dust](https://wiki.ubuntu.com/Artwork/Incoming/DustTheme)-inspired theme.
 * Widgets: [v3.5.9/wi.lua](https://github.com/tdy/awesome/blob/v3.5.9/wi.lua)
 * Theme: [v3.5.9/theme.lua](https://github.com/tdy/awesome/blob/v3.5.9/themes/dust/theme.lua)
 
-[<img src="https://raw.githubusercontent.com/tdy/screenshots/master/awesome_20130301_2880x1800.png" width="200px" alt="Arch Linux rMBP 15" (2013)" />](https://raw.githubusercontent.com/tdy/screenshots/master/awesome_20130301_2880x1800.png)  
+[<img src="https://raw.githubusercontent.com/tdy/screenshots/master/awesome_20130301_2880x1800.png" width="200px" alt="Arch Linux rMBP 15″ (2013)" />](https://raw.githubusercontent.com/tdy/screenshots/master/awesome_20130301_2880x1800.png)  
 *Arch Linux Laptop (2013)*
 
 ## Version [3.4.14](https://github.com/tdy/awesome/tree/v3.4.14)
